@@ -1,4 +1,4 @@
-# 📨 Sistema de Mensageria com JMS e ActiveMQ - Log
+# 📬 Sistema de Mensageria com JMS e ActiveMQ - Log
 
 ## 📋 Sobre o Projeto
 
