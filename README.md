@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto é uma aplicação Java que demonstra o uso de **JMS (Java Message Service)** com **Apache ActiveMQ** para implementar um sistema de mensageria assíncrona voltado para processamento de logs. O projeto foi desenvolvido com base no curso **"JMS e ActiveMQ: mensageria com Java"** da **DevMedia**, explorando conceitos fundamentais de mensageria, filas, produtores e consumidores.
+Este projeto é uma aplicação Java que demonstra o uso de **JMS (Java Message Service)** com **Apache ActiveMQ** para implementar um sistema de mensageria assíncrona voltado para processamento de logs. O projeto foi desenvolvido com base no curso **"JMS e ActiveMQ: mensageria com Java"** da **Alura**, explorando conceitos fundamentais de mensageria, filas, produtores e consumidores.
 
 ## 🎯 Objetivo
 
@@ -531,7 +531,7 @@ try {
 ## 📚 Referências e Documentação
 
 ### Curso Base
-**"JMS e ActiveMQ: mensageria com Java"** - DevMedia
+**"JMS e ActiveMQ: mensageria com Java"** - Alura
 
 ### Tópicos Abordados:
 - ✅ Introdução ao JMS (Java Message Service)
@@ -590,7 +590,7 @@ Este é um projeto educacional desenvolvido para fins de aprendizado.
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido durante o curso de JMS e ActiveMQ da DevMedia.
+Projeto desenvolvido durante o curso de JMS e ActiveMQ da Alura.
 
 ## 🔗 Links Úteis
 
